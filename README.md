@@ -10,7 +10,6 @@
 - 💾 **Backend:** Node.js, Express, MongoDB   
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onni891&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni891&layout=compact&theme=dark)
 
 🔗 **Let's Connect!**  
