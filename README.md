@@ -1,4 +1,5 @@
-# Hi there, I'm Onni 👋
+# Hi there, I'm Onni, Im 16-years old 👋
+
 
 🚀 Full-Stack Developer | CEO @Kooditaivas.fi  
 💻 Passionate about React, Node.js, and DevOps  
@@ -6,13 +7,12 @@
 
 ## 🛠 Tech Stack:
 - 🔥 **Frontend:** React, Next.js, Vite, TailwindCSS  
-- 💾 **Backend:** Node.js, Express, MongoDB  
-- 🏗 **DevOps:** Docker, Kubernetes, CI/CD, AWS  
+- 💾 **Backend:** Node.js, Express, MongoDB   
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onni891&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni891&layout=compact&theme=dark)
 
 🔗 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onni-kolehmainen-4471b6327/)  
 [![Website](https://img.shields.io/badge/Website-portfolio?color=green)](https://kooditaivas.fi)  
