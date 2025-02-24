@@ -5,10 +5,6 @@
 💻 Passionate about React, Node.js, and DevOps  
 🎯 Helping businesses grow with modern web technologies  
 
-## 🛠 Tech Stack:
-- 🔥 **Frontend:** React, Next.js, Vite, TailwindCSS  
-- 💾 **Backend:** Node.js, Express, MongoDB   
-
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni891&layout=compact&theme=dark)
 
