@@ -2,8 +2,6 @@
 
 
 🚀 Full-Stack Developer | CEO @Kooditaivas.fi  
-💻 Passionate about React, Node.js, and DevOps  
-🎯 Helping businesses grow with modern web technologies  
 
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni891&layout=compact&theme=dark)
