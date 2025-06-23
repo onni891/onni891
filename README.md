@@ -8,4 +8,4 @@
 
 🔗 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onni-kolehmainen-4471b6327/)  
-[![Website](https://img.shields.io/badge/Website-portfolio?color=green)](https://kooditaivas.fi)  
+[![Website](https://img.shields.io/badge/Website-portfolio?color=green)](https://onnikolehmainen.fi)  
